@@ -18,7 +18,7 @@ namespace ProgramaCadastros
 
             while(opcoes != 5)
             {
-                Console.WriteLine("O que deseja fazer? \n 1= Cadastrar Cliente, 2= Listar Cliente, 3= Cadastrar Funcionário, 4= Listar Funcionário, 5= Sair");
+                Console.WriteLine("O que deseja fazer? \n 1= Cadastrar Cliente, 2= Listar Cliente, 3= Cadastrar Funcionário, 4= Listar Funcionário, 5= Sair.");
                 opcoes = int.Parse(Console.ReadLine());
                 ManterCliente TelaCliente = new ManterCliente();
                 ManterFuncionario TelaFuncionario = new ManterFuncionario();
