@@ -1,0 +1,24 @@
+C:\Users\etc\source\repos\ProgramaCadastros\ProgramaCadastros\bin\Debug\ProgramaCadastros.exe.config
+C:\Users\etc\source\repos\ProgramaCadastros\ProgramaCadastros\bin\Debug\ProgramaCadastros.exe
+C:\Users\etc\source\repos\ProgramaCadastros\ProgramaCadastros\bin\Debug\ProgramaCadastros.pdb
+C:\Users\etc\source\repos\ProgramaCadastros\ProgramaCadastros\bin\Debug\Biblioteca.dll
+C:\Users\etc\source\repos\ProgramaCadastros\ProgramaCadastros\bin\Debug\Biblioteca.pdb
+C:\Users\etc\source\repos\ProgramaCadastros\ProgramaCadastros\obj\Debug\ProgramaCadastros.csprojAssemblyReference.cache
+C:\Users\etc\source\repos\ProgramaCadastros\ProgramaCadastros\obj\Debug\ProgramaCadastros.csproj.CoreCompileInputs.cache
+C:\Users\etc\source\repos\ProgramaCadastros\ProgramaCadastros\obj\Debug\ProgramaCadastros.csproj.CopyComplete
+C:\Users\etc\source\repos\ProgramaCadastros\ProgramaCadastros\obj\Debug\ProgramaCadastros.exe
+C:\Users\etc\source\repos\ProgramaCadastros\ProgramaCadastros\obj\Debug\ProgramaCadastros.pdb
+C:\Users\nandi\source\repos\Publicar no GitHub\Programa-Cadastros\ProgramaCadastros\obj\Debug\ProgramaCadastros.csprojAssemblyReference.cache
+C:\Users\nandi\source\repos\Publicar no GitHub\Programa-Cadastros\ProgramaCadastros\obj\Debug\ProgramaCadastros.csproj.CoreCompileInputs.cache
+C:\Users\nandi\source\repos\Publicar no GitHub\Programa-Cadastros\ProgramaCadastros\obj\Debug\ProgramaCadastros.exe
+C:\Users\nandi\source\repos\Publicar no GitHub\Programa-Cadastros\ProgramaCadastros\obj\Debug\ProgramaCadastros.pdb
+C:\Users\nandi\source\repos\C SHARP\C#_Intermediario\Programa-Cadastros\ProgramaCadastros\bin\Debug\ProgramaCadastros.exe.config
+C:\Users\nandi\source\repos\C SHARP\C#_Intermediario\Programa-Cadastros\ProgramaCadastros\bin\Debug\ProgramaCadastros.exe
+C:\Users\nandi\source\repos\C SHARP\C#_Intermediario\Programa-Cadastros\ProgramaCadastros\bin\Debug\ProgramaCadastros.pdb
+C:\Users\nandi\source\repos\C SHARP\C#_Intermediario\Programa-Cadastros\ProgramaCadastros\bin\Debug\Biblioteca.dll
+C:\Users\nandi\source\repos\C SHARP\C#_Intermediario\Programa-Cadastros\ProgramaCadastros\bin\Debug\Biblioteca.pdb
+C:\Users\nandi\source\repos\C SHARP\C#_Intermediario\Programa-Cadastros\ProgramaCadastros\obj\Debug\ProgramaCadastros.csprojAssemblyReference.cache
+C:\Users\nandi\source\repos\C SHARP\C#_Intermediario\Programa-Cadastros\ProgramaCadastros\obj\Debug\ProgramaCadastros.csproj.CoreCompileInputs.cache
+C:\Users\nandi\source\repos\C SHARP\C#_Intermediario\Programa-Cadastros\ProgramaCadastros\obj\Debug\ProgramaCadastros.csproj.CopyComplete
+C:\Users\nandi\source\repos\C SHARP\C#_Intermediario\Programa-Cadastros\ProgramaCadastros\obj\Debug\ProgramaCadastros.exe
+C:\Users\nandi\source\repos\C SHARP\C#_Intermediario\Programa-Cadastros\ProgramaCadastros\obj\Debug\ProgramaCadastros.pdb

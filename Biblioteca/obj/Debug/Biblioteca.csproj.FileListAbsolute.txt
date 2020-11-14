@@ -1,0 +1,16 @@
+C:\Users\etc\source\repos\ProgramaCadastros\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\etc\source\repos\ProgramaCadastros\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\etc\source\repos\ProgramaCadastros\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\etc\source\repos\ProgramaCadastros\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\etc\source\repos\ProgramaCadastros\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\etc\source\repos\ProgramaCadastros\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\nandi\source\repos\Publicar no GitHub\Programa-Cadastros\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\nandi\source\repos\Publicar no GitHub\Programa-Cadastros\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\nandi\source\repos\Publicar no GitHub\Programa-Cadastros\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\nandi\source\repos\Publicar no GitHub\Programa-Cadastros\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\nandi\source\repos\C SHARP\C#_Intermediario\Programa-Cadastros\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\nandi\source\repos\C SHARP\C#_Intermediario\Programa-Cadastros\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\nandi\source\repos\C SHARP\C#_Intermediario\Programa-Cadastros\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\nandi\source\repos\C SHARP\C#_Intermediario\Programa-Cadastros\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\nandi\source\repos\C SHARP\C#_Intermediario\Programa-Cadastros\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\nandi\source\repos\C SHARP\C#_Intermediario\Programa-Cadastros\Biblioteca\obj\Debug\Biblioteca.pdb
